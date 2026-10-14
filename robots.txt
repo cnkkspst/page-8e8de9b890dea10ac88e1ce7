@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-a1ebb02854.weipanw.cn/sitemap.xml

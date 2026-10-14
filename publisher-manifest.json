@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "30502b0d71ef083ba8ff11d8",
+  "owner": "cnkkspst",
+  "repo": "page-8e8de9b890dea10ac88e1ce7",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e8de9b890dea10ac88e1ce7",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b12cd80b1b7af307aa3693aeabe42d3c6a3ba4f861ea45445a72b371c96d5573",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供高质量Telegram账号租赁服务，用于VPN梯子、网络加速、机场订阅和客户端下载。多种计划可选，包括基础版、旗舰版和团队版，满足不同需求。",
+          "AI_DESCRIPTION": "TG号购买提供高质量Telegram账号租赁服务，用于VPN梯子、网络加速、机场订阅和客户端下载。多种计划可选，包括基础版、旗舰版和团队版，满足不同需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #2E8B57;\n            --bg: #F8F8F5;\n            --text: #333;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.6;\n            max-width: 100%;\n            overflow-x: hidden;\n        }\n        main {\n            max-width: 800px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            text-align: center;\n            padding: 40px 20px 20px;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--primary);\n            margin-bottom: 10px;\n        }\n        .tagline {\n            font-size: 1.2rem;\n            color: #666;\n        }\n        section {\n            margin-bottom: 40px;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: var(--primary);\n            margin-bottom: 20px;\n            border-bottom: 3px solid var(--primary);\n            padding-bottom: 10px;\n        }\n        h3 {\n            font-size: 1.4rem;\n            margin: 20px 0 10px;\n            color: #444;\n        }\n        .intro, .steps, .faq {\n            background: white;\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .scenarios {\n            display: flex;\n            flex-direction: column;\n            gap: 15px;\n        }\n        .scenario {\n            background: white;\n            padding: 20px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .step {\n            display: flex;\n            margin-bottom: 20px;\n            align-items: flex-start;\n        }\n        .step-number {\n            background: var(--primary);\n            color: white;\n            width: 40px;\n            height: 40px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            margin-right: 15px;\n            flex-shrink: 0;\n        }\n        .plan-container {\n            display: grid;\n            grid-template-columns: 1fr;\n            gap: 20px;\n        }\n        @media (min-width: 768px) {\n            .plan-container {\n                grid-template-columns: repeat(3, 1fr);\n            }\n        }\n        .plan {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n        }\n        .plan:hover {\n            transform: translateY(-5px);\n        }\n        .plan-header {\n            padding: 20px;\n            text-align: center;\n            background: var(--primary);\n            color: white;\n        }\n        .plan-featured {\n            background: #4CAF50;\n        }\n        .plan-name {\n            font-size: 1.5rem;\n            font-weight: bold;\n        }\n        .plan-price {\n            font-size: 1.8rem;\n            font-weight: bold;\n            margin: 10px 0;\n        }\n        .plan-annual {\n            font-size: 1rem;\n            color: #ddd;\n        }\n        .plan-features {\n            padding: 20px;\n        }\n        .feature-list {\n            list-style: none;\n        }\n        .feature-list li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n            display: flex;\n            align-items: center;\n        }\n        .feature-list li:before {\n            content: \"✓\";\n            color: var(--primary);\n            margin-right: 10px;\n        }\n        .btn {\n            display: inline-block;\n            background: var(--primary);\n            color: white;\n            padding: 15px 30px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: bold;\n            margin: 10px 0;\n        }\n        .btn:hover {\n            background: #1e6b45;\n        }\n        details {\n            margin-bottom: 15px;\n            border-bottom: 1px solid #eee;\n            padding-bottom: 15px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n            padding: 10px 0;\n        }\n        footer {\n            text-align: center;\n            padding: 40px 20px;\n            color: #666;\n            font-size: 0.9rem;\n        }\n    </style>\n\n\n    <main>\n        <header>\n            <h1>TG号购买</h1>\n            <p class=\"tagline\">专业Telegram账号租赁服务 • VPN梯子 • 机场订阅 • 客户端下载</p>\n        </header>\n\n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>TG号购买是专注于Telegram账号租赁的专业服务，提供安全、高质量、稳定的Telegram号码。无论您是个人用户还是企业团队，都能找到专属的解决方案。我们支持多种计划，从基础到团队版，满足不同需求。</p>\n            <p>我们的TG号专为VPN网络加速、机场订阅和客户端下载设计，确保您在享受加速体验的同时，账号稳定可靠。</p>\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <div class=\"scenarios\">\n                <div class=\"scenario\">\n                    <h3>🌐 VPN 梯子网络加速</h3>\n                    <p>通过TG号访问专属节点，享受高速稳定的网络加速。解锁全球优质IP，实现无缓冲流畅浏览。</p>\n                </div>\n                <div class=\"scenario\">\n                    <h3>🚀 机场订阅加速</h3>\n                    <p>专为机场订阅者设计，支持多种机场协议，快速连接节点，提升订阅体验。</p>\n                </div>\n                <div class=\"scenario\">\n                    <h3>📱 客户端下载与使用</h3>\n                    <p>提供对应客户端下载指南，轻松集成到您的设备上，随时随地加速网络。</p>\n                </div>\n                <div class=\"scenario\">\n                    <h3>🎮 游戏与流媒体解锁</h3>\n                    <p>解锁Netflix、Disney+等流媒体平台，以及游戏加速优化。</p>\n                </div>\n            </div>\n        </section>\n\n        <section>\n            <h2>操作说明（纵向步骤）</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-number\">1</div>\n                    <div>\n                        <h3>选择适合您的计划</h3>\n                        <p>根据您的需求，选择基础版、旗舰版或团队版。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">2</div>\n                    <div>\n                        <h3>完成支付</h3>\n                        <p>安全支付，支持多种支付方式。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">3</div>\n                    <div>\n                        <h3>获取TG号</h3>\n                        <p>支付成功后，立即通过邮箱或后台获取您的Telegram账号。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">4</div>\n                    <div>\n                        <h3>安装客户端</h3>\n                        <p>根据您的需求下载对应客户端，或直接使用Telegram App。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">5</div>\n                    <div>\n                        <h3>享受加速</h3>\n                        <p>连接节点，开启VPN梯子与机场订阅之旅。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section>\n            <h2>选择您的计划</h2>\n            <div class=\"plan-container\">\n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"plan-price\">¥15/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul class=\"feature-list\">\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn\">立即购买</a>\n                    </div>\n                </div>\n                <div class=\"plan plan-featured\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"plan-price\">¥35/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul class=\"feature-list\">\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn\">立即购买</a>\n                    </div>\n                </div>\n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"plan-price\">¥85/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul class=\"feature-list\">\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn\">立即购买</a>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>如何购买TG号？</summary>\n                <p>选择计划后完成支付，支付成功后立即通过邮箱或后台获取您的Telegram账号。支持多种支付方式，安全便捷。</p>\n            </details>\n            <details>\n                <summary>不同计划的流量和功能有什么区别？</summary>\n                <p>基础版提供100GB流量，支持3台设备；旗舰版300GB，支持5台设备，包含IPLC加速和优先支持；团队版1000GB，支持20台设备，VIP节点和专属服务。</p>\n            </details>\n            <details>\n                <summary>TG号可以用于机场订阅吗？</summary>\n                <p>是的，TG号是专为机场订阅和VPN梯子设计的账号，可轻松用于订阅各类机场服务，享受高速稳定连接。</p>\n            </details>\n            <details>\n                <summary>客户端下载指南是什么？</summary>\n                <p>我们提供对应客户端下载链接和安装教程。您可以根据设备下载Telegram App或专用加速客户端，轻松连接节点。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备和平台？</summary>\n                <p>支持Windows、Mac、iOS、Android等多种设备。客户端兼容性强，操作简单易上手。</p>\n            </details>\n            <details>\n                <summary>如何获取账号信息？</summary>\n                <p>支付完成后，我们会通过注册邮箱或后台系统发送账号密码和节点信息。账号通常在几分钟内激活。</p>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <p>旗舰版和团队版提供7x24优先工单支持。基础版有在线客服和邮件支持。所有账号提供30天退款保障。</p>\n            </details>\n        </section>\n\n        <div>\n            <a href=\"#\">立即开始使用TG号购买</a>\n        </div>\n\n        <footer>\n            <p>© 2024 TG号购买 | 专业账号租赁服务</p>\n            <p>本页面为演示内容，非真实交易平台。请仅使用官方渠道。</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "88bc705e791ab1b36f73d2eaa34dda1d5c819d47d8104a7ce6f59411cb896bf9",
+          "seo": {
+            "title": "TG号购买 - 专业Telegram账号租赁服务，助力VPN梯子与机场订阅",
+            "keywords": "TG号购买, Telegram号, 账号租赁, VPN加速, 机场订阅, 客户端下载, 网络加速器",
+            "description": "TG号购买提供高质量Telegram账号租赁服务，用于VPN梯子、网络加速、机场订阅和客户端下载。多种计划可选，包括基础版、旗舰版和团队版，满足不同需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "weipanw.cn",
+    "host": "p-a1ebb02854.weipanw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "83da848df3e0e720450e4b9869ae45dbbbbfb2936c391bd505253de7edc69990",
+    "sitemap.xml": "8e91f697477f4896ab377753179553aca2a0c66ce24ea59d303fbd3909056170",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d3e685560f38e143ffc08ec520c6871e9247b209ac7fd7d46276c20566935efb",
+    "robots.txt": "eea8b11a30f3a8ba71707f990a4bf76b071a7df6213ef445bef38a1c11eee4f6",
+    "c54b976ee8ee3de245fee779dd4c4cda.txt": "2df4ca4a74239854eedb94905111fc75ec40ca3755dc6031de207b353fd1876c"
+  },
+  "revision": "0471011904dc2d4b4f4e1c7e68c325e448f5584305916f6464dea889f8a0d3f7"
+}
